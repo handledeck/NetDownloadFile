@@ -1,0 +1,7 @@
+ls
+ls -la /
+CMD ls -la /
+ls -Fs
+ps
+free
+df

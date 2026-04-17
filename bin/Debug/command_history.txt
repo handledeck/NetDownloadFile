@@ -1,0 +1,17 @@
+cat /data/app.log
+cat /etc/crontabs/root
+cat /etc/crontabs/roor
+top -n 1
+df
+serial_atcmd at+cpsi?
+serial_atcmd at+csq
+serial_atcmd AT+CNMP=38
+serial_atcmd AT+CNMP?
+serial_atcmd AT+CSQ
+serial_atcmd at
+serial_atcmd at+cnmp?
+serial_atcmd at+cnmp=38
+ls
+/
+free
+ls -Fs /data
