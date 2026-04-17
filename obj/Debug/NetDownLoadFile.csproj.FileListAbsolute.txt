@@ -1,7 +1,0 @@
-D:\103\NetDownLoadFile\bin\Debug\NetDownLoadFile.exe.config
-D:\103\NetDownLoadFile\bin\Debug\NetDownLoadFile.exe
-D:\103\NetDownLoadFile\bin\Debug\NetDownLoadFile.pdb
-D:\103\NetDownLoadFile\obj\Debug\NetDownLoadFile.csproj.AssemblyReference.cache
-D:\103\NetDownLoadFile\obj\Debug\NetDownLoadFile.csproj.CoreCompileInputs.cache
-D:\103\NetDownLoadFile\obj\Debug\NetDownLoadFile.exe
-D:\103\NetDownLoadFile\obj\Debug\NetDownLoadFile.pdb
